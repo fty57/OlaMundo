@@ -6,7 +6,7 @@
 # Nível 1
 ***
 ## Nível 2
----
+
 ### Nível 3
 
 Podemos _*misturar*_ as configurações
@@ -29,4 +29,24 @@ Lista de Tarefas:
  - [] Construir meu aprendizado
  - [] Voltar para lanchar
 
+
 Essa linha eu adicionei diretamente no site!
+![little-girl](https://user-images.githubusercontent.com/59287050/136031750-1547c9cf-87f5-457b-976e-24fddcbb0115.jpg)
+
+Tabela:
+Num | Nome | Nota
+---|---|---
+1 | Álisson | 10
+2 | Marcos | 8
+3 | João | 8000
+
+Comandos:
+`System.out.Println()`
+
+```
+var x = 81;
+print($"Investindo {x} na bolsa de valores")
+```
+
+Uso de emoji 🥇
+ikatyang: emoji-cheat-sheet
