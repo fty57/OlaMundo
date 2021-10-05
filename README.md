@@ -26,8 +26,8 @@ Lista demarcada:
 
 Lista de Tarefas:
  - [x] Criar meu site
- - [] Construir meu aprendizado
- - [] Voltar para lanchar
+ - [x] Construir meu aprendizado
+ - [x] Voltar para lanchar
 
 
 Essa linha eu adicionei diretamente no site!
@@ -50,3 +50,6 @@ print($"Investindo {x} na bolsa de valores")
 
 Uso de emoji 🥇
 ikatyang: emoji-cheat-sheet
+
+Quote - Você consegue responder a postagem do programador(a).
+
